@@ -147,8 +147,7 @@ public class Robot extends TimedRobot {
       RoboGyro.reset();
     }
 
-    RobotDT.driveCartesian(x, y, z, 0
-    );
+    RobotDT.driveCartesian(x, y, z, 0);
   }
 
   /**
